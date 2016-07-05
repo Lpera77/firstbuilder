@@ -1,0 +1,32 @@
+{
+  "name": "poe_firstbuilder",
+  "version": "0.0.0",
+  "description": "Exercice de formation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lpera77/firstbuilder.git"
+  },
+  "author": "lpera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lpera77/firstbuilder/issues"
+  },
+  "homepage": "https://github.com/Lpera77/firstbuilder#readme",
+  "dependencies": {
+    "autoprefixer": "^6.3.7",
+    "node-sass": "^3.8.0",
+    "postcss-cli": "^2.5.2"
+  },
+  "devDependencies": {
+1a32ea8d5fdaf0576309e0e76b65be7692
+    "kss": "^3.0.0-beta.14",
+    "sass-lint": "^1.8.2"
+=======
+    "kss": "^3.0.0-beta.14"
+>>>>>>> test avec auto machin
+  }
+}

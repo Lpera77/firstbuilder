@@ -1,0 +1,31 @@
+/// Pics
+//
+// Une image avec sa légende
+//
+// Markup:
+// <figure class="pics">
+//   <img class="pics-img" alt="" src="http://lorempixel.com/400/200/"/>
+//   <figcation class="pics-legend">
+//     Legende
+//   </figcaption>
+// </figure>
+//
+// Style guide: Button
+
+$color-black: #000;
+
+.pics {
+  display: flex;
+<<<<<<< 10fc711a32ea8d5fdaf0576309e0e76b65be7692
+
+=======
+  
+>>>>>>> test avec auto machin
+  &-img {
+    height: auto;
+    width: 100%;
+  }
+
+  &-legend {
+    color: $color-black;
+
